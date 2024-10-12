@@ -3,7 +3,6 @@ const italic = {
   fontStyle: "italic"
 }
 
-
 function About() {
   return (
     <div id="about">
@@ -13,7 +12,7 @@ function About() {
           I'm a PhD candidate in philosophy at the University of Massachusetts 
           Amherst.  My research is specialized in ethics and metaphysics.  I 
           have primary research interests in harm, the ethics of self-defense, 
-          the metaphysics of causation, and their intersection.
+          applied ethics, the metaphysics of causation, and their intersection.
         </p>
         <p>
           The notion of imposing a threat of harm and, relatedly, the notion of 
@@ -32,12 +31,12 @@ function About() {
           framework that explains their ethical significance, and 
           <span style={italic}> (iii)</span> apply this framework to concrete
            ethical issues, including, for example, self-defense, just 
-           war theory, the ethics of abortion, and more. I also plan to extend 
-           my current research project to address fundamental issues in 
+           war theory, the ethics of abortion, and more. I also have plans to 
+           extend my current research project to address fundamental issues in 
            political philosophy. 
         </p>
         <p>
-          Outside of my current primary research project, I also have research 
+          Outside of my current primary research project, I have research 
           intests in moral semantics, counterfactuals, causation, and applied 
           ethics more generally. 
         </p>
