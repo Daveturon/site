@@ -31,7 +31,7 @@ function About() {
           framework that explains their ethical significance, and 
           <span style={italic}> (iii)</span> apply this framework to concrete
            ethical issues, including, for example, self-defense, just 
-           war theory, the ethics of abortion, and more. I also have plans to 
+           war theory, and more. I also have plans to 
            extend my current research project to address fundamental issues in 
            political philosophy. 
         </p>

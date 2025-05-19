@@ -3,7 +3,7 @@ function Teaching() {
   return (
     <div id="teaching">
       <h2>Teaching</h2>
-      <h3>Courses Taught as instructor of record:</h3>
+      <h3>Courses Taught:</h3>
       <div id="courseContainer">
         <div>
           <h4>At University of Massachusetts Amherst</h4>
