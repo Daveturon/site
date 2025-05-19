@@ -57,7 +57,8 @@ function Research() {
             <li>
               A paper that examining the moral significance of causation 
             </li>
-            <li>A paper on the ethics of abortion</li>
+            <li>A paper A paper drawing on defensive harm cases to make a novel argument about the
+justification of wealth redistribution</li>
           </ul>
         </section>
       </div>
