@@ -12,6 +12,11 @@ function Research() {
           <h3>Publications</h3>
           <ul>
             <li>
+              With Graham, Peter A. (Forthcoming). The Doctrine of Doing and
+              Allowing. In <span style={italic}> The Oxford Handbook of 
+                Philosophy of Harm</span>. 
+            </li>
+            <li>
               (Forthcoming). Doing Harm While Allowing It: Towards a 
               New Framework for the Doctrine of Doing and Allowing. 
               <span style={italic}> Philosophers' Imprint</span>. 
@@ -50,15 +55,13 @@ function Research() {
           <h3>Works in Progress</h3>
           <ul>
             <li>
-              A paper on intervening agency, harm, and defense 
+              A paper on intervening agency, harm, and defense  
               (<span style={italic}>under review</span>)
             </li>
+            <li>A paper which argues for permissible wealth redistribution on 
+              the basis of principles of permissible defensive harm</li>
+            <li>A paper on harming and double prevention</li>
             <li>A paper on accounts of causation and double prevention</li>
-            <li>
-              A paper that examining the moral significance of causation 
-            </li>
-            <li>A paper drawing on defensive harm cases to make a novel argument about the
-justification of wealth redistribution</li>
           </ul>
         </section>
       </div>
