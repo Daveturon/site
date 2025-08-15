@@ -17,15 +17,15 @@ function Research() {
                 Philosophy of Harm</span>. 
             </li>
             <li>
-              (Forthcoming). Doing Harm While Allowing It: Towards a 
+              (2025). Doing Harm While Allowing It: Towards a 
               New Framework for the Doctrine of Doing and Allowing. 
-              <span style={italic}> Philosophers' Imprint</span>. 
+              <span style={italic}> Philosophers' Imprint</span>, 25(3). 
               <br/>
               <a 
-                href={require("../resources/phimp_preprint.pdf")} 
+                href={require("../resources/phimp-3370-turon.pdf")} 
                 target="_blank" 
                 rel="noreferrer" >
-                Pre-Print PDF
+                PDF
               </a>
               <a 
                 href="https://doi.org/10.3998/phimp.3370" 
